@@ -1,1 +1,1 @@
-# DES
+# Primer DES algoritma
