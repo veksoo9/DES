@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <projectDescription>
 	<name>DES</name>
 	<comment></comment>
@@ -6,12 +6,12 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>ss1112.py</name>
+			<name>main.c</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>ss1112.py</nature>
+		<nature>main.c</nature>
 	</natures>
 </projectDescription>
